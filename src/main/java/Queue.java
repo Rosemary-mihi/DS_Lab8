@@ -1,5 +1,3 @@
-import Queue.Node;
-
 public class Queue<T>
 {
 	public class Node
